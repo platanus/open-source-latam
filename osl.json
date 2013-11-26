@@ -1,0 +1,18 @@
+{
+    "sites": [
+        {
+            "title": "Negroku",
+            "URL": "http://github.com/platanus/negroku",
+            "description": "Gema Ruby para deployar Rails fácilmente",
+            "support-level": "full",
+            "verified": true
+        },
+        {
+            "title": "Restmod",
+            "URL": "http://github.com/platanus/angular-restmod",
+            "description": "Imagina ActiveRecord para tus modelos de AngularJS",
+            "support-level": "full",
+            "verified": true
+        }
+    ]
+}
