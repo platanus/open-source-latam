@@ -13,6 +13,13 @@
             "description": "Imagina ActiveRecord para tus modelos de AngularJS",
             "support-level": "full",
             "verified": true
+        },
+        {
+            "title": "Scraperbelt",
+            "URL": "https://github.com/Narzerus/scraperbelt",
+            "description": "Kit de mini-herramientas de scraping para NodeJS",
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
