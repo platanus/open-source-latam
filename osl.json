@@ -20,6 +20,13 @@
             "description": "Kit de mini-herramientas de scraping para NodeJS",
             "support-level": "full",
             "verified": false
+        },
+        {
+            "title": "SantanderJS",
+            "URL": "https://github.com/egrajeda/santanderjs",
+            "description": "Librería de CasperJS para obtener tus transacciones de Santander Chile en JSON",
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
