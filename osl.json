@@ -13,6 +13,13 @@
             "description": "Imagina ActiveRecord para tus modelos de AngularJS",
             "support-level": "full",
             "verified": true
+        },
+        {
+            "title": "Permission",
+            "URL": "https://github.com/Narzerus/angular-permission",
+            "description": "Controla el acceso a tus rutas mediante permisos/roles en AngularJS",
+            "support-level": "full",
+            "verified": false
         }
     ]
 }
